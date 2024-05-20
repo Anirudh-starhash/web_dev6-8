@@ -27,3 +27,8 @@ git push -u origin main
 git pull --rebase origin main
 
 -- after that just use line number 15 thats it
+
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
+
+go here for flex box cheat sheet
